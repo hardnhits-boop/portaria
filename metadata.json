@@ -1,0 +1,6 @@
+{
+  "name": "Portaria Nível 7",
+  "description": "Formação Profissional em Segurança Patrimonial e Portaria Nível 7 EAD. Habilitação para 7 funções profissionais com certificado válido nacionalmente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
